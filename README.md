@@ -14,7 +14,7 @@ To write a program to find the GCD of two numbers using function.
 4. Use for() and if() loop to find the GCD of the two numbers.
 
 ## Program:
-```
+```python
 /*
 Program to find the gcd of two number using function.
 Developed by: Samakash.R.S
@@ -33,8 +33,7 @@ def gcd():
 ```
 
 ## Output:
-
-![Screenshot 2024-03-16 093641](https://github.com/Samakas/GCD-of-two-numbers/assets/154731670/cc691ca2-c2c0-481b-9f46-efd02ff63571)
+![alt text](<Screenshot 2024-04-06 104305.png>)
 
 
 ## Result:
